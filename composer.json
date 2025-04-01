@@ -13,7 +13,6 @@
   ],
   "require": {
     "php": ">=8.2",
-    "illuminate/support": "*",
     "laravel/framework": "*",
     "laravelcollective/html": "*"
   },
